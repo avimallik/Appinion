@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">"Appinion"</string>
+    <string name="main_activity_title">"Intern DCR"</string>
+    <string name="action_settings">Settings</string>
+
+    //Application Texts
+    <string name="sub_title">PG/Sample</string>
+
+    //Spinner Titles
+    <string name="pg_group_til">Product Group</string>
+    <string name="literature_til">Literature</string>
+    <string name="physician_sample_til">Physician Sample</string>
+    <string name="gift_til">Gift</string>
+    <string name="accompanied_with">Accompanied With</string>
+    <string name="remarks_till">Remarks</string>
+    <string name="input_text">Input Text</string>
+    <string name="submit_btn">Submit</string>
+    <string name="done_alert">done</string>
+
+</resources>
